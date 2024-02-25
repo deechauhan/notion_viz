@@ -1,4 +1,5 @@
 from datetime import datetime
+import requests
 from pyscript import display
 
 now = datetime.now()
